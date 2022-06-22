@@ -1,0 +1,4 @@
+# 002-045-049-UAS-GA
+1911500049_Achmad Fajri
+1911500045_Anis Muflih
+1911500002_Agung Pramudya
