@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">002 045 049 UAS GA</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="serviceUnaviable">Layanan Tidak Tersedia</string>
+    <string name="invalid">Gagal</string>
+    <string name="not_found">Tidak Ditemukan</string>
+    <string name="lapor">Lapor</string>
+</resources>
